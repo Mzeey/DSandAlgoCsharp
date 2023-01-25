@@ -31,7 +31,7 @@ namespace LearnDSAlgorithms
         //the order which it is printed has changed
         public void Calculate(int n){
             if(n> 0){
-                Calculate(n);
+                Calculate(n-1);
                 int k = n*n;
                 Console.WriteLine(k);
             }
