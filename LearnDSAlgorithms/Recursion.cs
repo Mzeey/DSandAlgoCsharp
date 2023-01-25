@@ -18,11 +18,22 @@ namespace LearnDSAlgorithms
             }
         }
 
+        // Using tail recursion
         public void CalculateRecursive(int n){
             if(n > 0){// this is the base condition that will terminate the recursive calls;
                 int k = n*n;
                 Console.WriteLine(k);
                 CalculateRecursive(n-1);
+            }
+        }
+
+        //using head Recursion 
+        //the order which it is printed has changed
+        public void Calculate(int n){
+            if(n> 0){
+                Calculate(n);
+                int k = n*n;
+                Console.WriteLine(k);
             }
         }
     }
