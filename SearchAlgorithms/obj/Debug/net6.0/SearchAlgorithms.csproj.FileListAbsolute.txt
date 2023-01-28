@@ -1,0 +1,15 @@
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.exe
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.deps.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.runtimeconfig.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.AssemblyInfo.cs
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\refint\SearchAlgorithms.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.genruntimeconfig.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\SearchAlgorithms\obj\Debug\net6.0\ref\SearchAlgorithms.dll
