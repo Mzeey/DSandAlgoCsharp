@@ -36,5 +36,15 @@ namespace LearnDSAlgorithms
                 Console.WriteLine(k);
             }
         }
+
+        // Uses Tree Recursion
+        public void CalculateTreeRecursion(int n){
+            if(n > 0){
+                CalculateTreeRecursion(n-1);
+                int k= n*n;
+                Console.WriteLine(k);
+                CalculateTreeRecursion(n-1);
+            }
+        }
     }
 }
