@@ -7,6 +7,7 @@ namespace SearchAlgorithms
 {
     public class Search
     {
+        //O(n) time for computation
         public int LinearSearch(int[] array, int n, int key){
             int index = 0; //1
             while (index < n){ //n+1
@@ -18,6 +19,21 @@ namespace SearchAlgorithms
             return -1; //1
         }
 
-        //O(n) time for computation
+        //O(log(n))
+        public int BinaryIterative(int[] array, int n, int key){
+            int left = 0; // 1
+            int right = n-1; // 1
+            while (left <= right){ // n/2 = log(n)
+                int mid = (left + right) /2;
+                if(key == array[mid]){
+                    return mid;
+                }else if(key < array[mid]){
+                    right = mid -1;
+                }else{
+                    left = mid + 1;
+                }
+            }
+            return -1; //1
+        }
     }
 }

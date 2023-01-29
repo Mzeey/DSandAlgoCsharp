@@ -2,8 +2,8 @@
 public class Program{
     public static void Main(){
         Search search = new Search();
-        int[] A = {84, 21, 47,  96, 15};
-        int found = search.LinearSearch(A, A.Length, 21);
+        int[] A = {15,21,47,84,96};
+        int found = search.BinaryIterative(A, A.Length, 100);
         Console.WriteLine("Result: " + found);
     }
 }
