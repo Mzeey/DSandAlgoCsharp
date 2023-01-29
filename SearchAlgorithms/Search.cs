@@ -35,5 +35,20 @@ namespace SearchAlgorithms
             }
             return -1; //1
         }
+
+        public int BinaryRecursive(int[] array, int key, int left, int right){
+            if(left > right){
+                return -1;
+            }
+            int mid = (left + right)/2;
+            if(array[mid] == key){
+                return mid;
+            }else if(key < array[mid]){
+                return BinaryRecursive(array, key, left, mid-1);
+            }else{
+                return BinaryRecursive(array, key, mid+1, right);
+            }
+            
+        }
     }
 }
