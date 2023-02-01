@@ -5,7 +5,7 @@ public class Program{
         int[] A = {3,5,8,9,6,2};
         Console.Write($"Original Array: ");
         sort.Display(A);
-        sort.SelectionSort(A, A.Length);
+        sort.InsersionSort(A, A.Length);
         Console.Write("Sorted Array: ");
         sort.Display(A);
     }
