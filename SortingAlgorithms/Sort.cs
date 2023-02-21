@@ -43,6 +43,25 @@ namespace SortingAlgorithms
             }
         }
 
+        public void ShellSort(int[] A, int n ){
+            int gap = n /2;
+            while(gap > 0){
+                int i = gap;
+                while(i < n){
+                    int temp = A[i];
+                    int j = i - gap;
+                    while(j >=0 && A[j] > temp){
+                        A[j+gap] = A[j];
+                        j = j -gap;
+                    }
+                    A[j + gap] = temp;
+                    i = i + 1;
+                }
+
+                gap = gap/2;
+            }
+        }
+
         private void swap(int[] A, int i, int position){
             int temp = A[i];
             A[i] = A[position];
