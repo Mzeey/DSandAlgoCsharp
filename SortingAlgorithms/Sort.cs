@@ -88,6 +88,33 @@ namespace SortingAlgorithms
             }
         }
 
+        public void QuickSort(int[] A, int lowIndex, int highIndex){
+            if(lowIndex < highIndex){
+                int partionIndex = partition(A, lowIndex, highIndex);
+                QuickSort(A, lowIndex, partionIndex - 1);
+                QuickSort(A, partionIndex+1, highIndex);
+            }
+        }
+
+        private int partition(int[] A,int lowIndex, int highIndex){
+            int pivoteValue = A[lowIndex];
+            int i = lowIndex+1;
+            int j = highIndex;
+            do{
+                while(i <=j && A[i] <= pivoteValue){
+                    i = i+1;
+                }
+                while(i<=j && A[j]> pivoteValue){
+                    j=j - 1;
+                }
+                if(i <=j){
+                    swap(A, i, j);
+                }
+            }while(i<j);
+            swap(A, lowIndex, j);
+            return j;
+        }
+
         private void merge(int[] A, int leftIndex, int midIndex, int rightIndex)
         {
             int leftArrayIndex = leftIndex;
@@ -137,11 +164,7 @@ namespace SortingAlgorithms
 
         public void Display(int[] A)
         {
-            string result = "";
-            foreach (var item in A)
-            {
-                result += (item + " ");
-            }
+            string result = String.Join(' ', A);
             Console.WriteLine(result);
         }
     }
