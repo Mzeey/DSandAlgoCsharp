@@ -59,11 +59,11 @@ namespace LinkedListLearning
             Node<T> currentNode = new Node<T>(value); 
             if(Head == null){
                 Head = currentNode;
-                Tail = currentNode;
             }else{
                 currentNode.Next = Head;
-                Head = currentNode;
+                Tail.Next = currentNode;
             }
+            Tail = currentNode;
             Size++;
         }
 

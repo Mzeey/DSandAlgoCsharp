@@ -1,0 +1,15 @@
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\bin\Debug\net6.0\CircularLinkedListLearning.exe
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\bin\Debug\net6.0\CircularLinkedListLearning.deps.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\bin\Debug\net6.0\CircularLinkedListLearning.runtimeconfig.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\bin\Debug\net6.0\CircularLinkedListLearning.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\bin\Debug\net6.0\CircularLinkedListLearning.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.csproj.AssemblyReference.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.AssemblyInfoInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.AssemblyInfo.cs
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.csproj.CoreCompileInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\refint\CircularLinkedListLearning.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\CircularLinkedListLearning.genruntimeconfig.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\CircularLinkedListLearning\obj\Debug\net6.0\ref\CircularLinkedListLearning.dll
