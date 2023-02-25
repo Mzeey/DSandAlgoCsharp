@@ -1,0 +1,15 @@
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\bin\Debug\net6.0\DoublyLinkedListLearning.exe
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\bin\Debug\net6.0\DoublyLinkedListLearning.deps.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\bin\Debug\net6.0\DoublyLinkedListLearning.runtimeconfig.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\bin\Debug\net6.0\DoublyLinkedListLearning.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\bin\Debug\net6.0\DoublyLinkedListLearning.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.csproj.AssemblyReference.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.AssemblyInfoInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.AssemblyInfo.cs
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.csproj.CoreCompileInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\refint\DoublyLinkedListLearning.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\DoublyLinkedListLearning.genruntimeconfig.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\DoublyLinkedListLearning\obj\Debug\net6.0\ref\DoublyLinkedListLearning.dll
