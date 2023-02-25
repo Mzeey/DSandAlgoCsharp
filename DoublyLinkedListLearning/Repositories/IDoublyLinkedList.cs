@@ -19,7 +19,7 @@ namespace DoublyLinkedListLearning.Repositories
         public void InsertAtIndex(int index, T value);
 
         public Node<T> Find(T value);
-        public Node<T> FindAtIndex(int index, T value);
+        public Node<T> FindAtIndex(int index);
         public void Display();
     }
 }

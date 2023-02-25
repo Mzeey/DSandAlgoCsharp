@@ -49,7 +49,9 @@ namespace DoublyLinkedListLearning
             Node<T> currentNode = Head;
             while(i < Size){
                 if(i == index){
-                    currentNode.Prev = currentNode.Next;
+                    currentNode.Prev.Next = currentNode.Next;
+                    currentNode.Next.Prev = currentNode.Prev;
+                    Size --;
                     break;
                 }
                 currentNode = currentNode.Next;
@@ -72,12 +74,38 @@ namespace DoublyLinkedListLearning
 
         public Node<T> Find(T value)
         {
-            throw new NotImplementedException();
+            Node<T> curentNode = Head;
+            Node<T> seekingNode = null;
+
+            int i =0;
+            while(i < Size){
+                if(curentNode.Data.Equals(value)){
+                    seekingNode = curentNode;
+                    break;
+                }
+                curentNode = curentNode.Next;
+                i++;
+            }
+
+            return seekingNode;
         }
 
-        public Node<T> FindAtIndex(int index, T value)
+        public Node<T> FindAtIndex(int index)
         {
-            throw new NotImplementedException();
+            if(index >= Size){
+                throw new IndexOutOfRangeException("The provided index is out of range");
+            }
+            Node<T> curentNode = Head;
+            Node<T> seekingNode = null;
+            int i = 0;
+            while(i < Size){
+                if(i == index){
+                    seekingNode = curentNode;
+                }
+                curentNode = curentNode.Next;
+                i++;
+            }
+            return seekingNode;
         }
 
         public void InsertAtIndex(int index, T value)
