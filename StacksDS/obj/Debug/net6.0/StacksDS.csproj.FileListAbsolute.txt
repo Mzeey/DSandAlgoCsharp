@@ -1,0 +1,15 @@
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.csproj.AssemblyReference.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.AssemblyInfoInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.AssemblyInfo.cs
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.csproj.CoreCompileInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\bin\Debug\net6.0\StacksDS.exe
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\bin\Debug\net6.0\StacksDS.deps.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\bin\Debug\net6.0\StacksDS.runtimeconfig.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\bin\Debug\net6.0\StacksDS.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\bin\Debug\net6.0\StacksDS.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\refint\StacksDS.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\StacksDS.genruntimeconfig.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\StacksDS\obj\Debug\net6.0\ref\StacksDS.dll
