@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using StacksDS;
 
-StacksDS.Stack<int> stack = new StacksDS.Stack<int>(10);
+StackLinkedList<int> stack = new StackLinkedList<int>();
 stack.Push(5);
 stack.Push(3);
 stack.Display();

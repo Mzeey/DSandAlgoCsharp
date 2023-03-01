@@ -1,0 +1,15 @@
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\bin\Debug\net6.0\QueuesDS.exe
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\bin\Debug\net6.0\QueuesDS.deps.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\bin\Debug\net6.0\QueuesDS.runtimeconfig.json
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\bin\Debug\net6.0\QueuesDS.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\bin\Debug\net6.0\QueuesDS.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.csproj.AssemblyReference.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.AssemblyInfoInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.AssemblyInfo.cs
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.csproj.CoreCompileInputs.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\refint\QueuesDS.dll
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.pdb
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\QueuesDS.genruntimeconfig.cache
+C:\Users\Chidi Obi\Documents\Projects\Csharp_DA_algorithms_vids\Code\QueuesDS\obj\Debug\net6.0\ref\QueuesDS.dll
