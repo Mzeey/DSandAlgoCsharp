@@ -12,7 +12,12 @@ namespace BinarySearchTrees.Trees.Interfaces
         void Insert(T value);
         void RecursiveInsert(T value);
 
+        Node<T> Search(T value);
+
         void InOrder();
+        void PreOrder();
+        void PostOrder();
+        void LevelOrder();
         void Display();
     }
 }

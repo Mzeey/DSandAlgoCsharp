@@ -47,7 +47,7 @@ namespace BinarySearchTrees.Trees
 
         public void InOrder()
         {
-            Console.WriteLine("Inorder Traversal:");
+            Console.WriteLine("In-Order Traversal:");
             this._treeValues = new List<T>();
             inOrder(this.Root);
         }
@@ -62,7 +62,7 @@ namespace BinarySearchTrees.Trees
 
         public void Display()
         {
-            Console.WriteLine(string.Join(", ", _treeValues));
+            Console.WriteLine($"[{string.Join(", ", _treeValues)}]");
         }
 
         public void RecursiveInsert(T value)
@@ -88,6 +88,74 @@ namespace BinarySearchTrees.Trees
             }
 
             return tempRoot;
+        }
+
+        public void PreOrder()
+        {
+            Console.WriteLine("Pre-Order Traversal");
+            _treeValues = new List<T>();
+            preOrder(this.Root);
+        }
+
+        private void preOrder(Node<T> tempRoot){
+            if(tempRoot is not null){
+                _treeValues.Add(tempRoot.Value);
+                preOrder(tempRoot.Left);
+                preOrder(tempRoot.Right);
+            }
+        }
+
+        public void PostOrder()
+        {
+            Console.WriteLine("Post-Order Traversal: ");
+            _treeValues= new List<T>();
+            postOrder(this.Root);
+        }
+
+        private void postOrder(Node<T> tempRoot){
+            if(tempRoot is not null){
+                postOrder(tempRoot.Left);
+                postOrder(tempRoot.Right);
+                _treeValues.Add(tempRoot.Value);
+            }
+        }
+
+        public void LevelOrder()
+        {
+            Console.WriteLine("Level-Order Traversal");
+            _treeValues = new List<T>();
+            Queue<Node<T>> nodes = new Queue<Node<T>>();
+            Node<T> tempNode = this.Root;
+            _treeValues.Add(tempNode.Value);
+            nodes.Enqueue(tempNode);
+            while (!(nodes.Count == 0)){
+                tempNode = nodes.Dequeue();
+                if(tempNode.Left is not null){
+                    _treeValues.Add(tempNode.Left.Value);
+                    nodes.Enqueue(tempNode.Left);
+                }
+                if(tempNode.Right is not null){
+                    _treeValues.Add(tempNode.Right.Value);
+                    nodes.Enqueue(tempNode.Right);
+                }
+            }
+        }
+
+
+        public Node<T> Search(T value)
+        {
+            Node<T> tempRoot = this.Root;
+            while(tempRoot is not null){
+                if(value.Equals(tempRoot.Value)){
+                    return tempRoot;
+                }else if(value.CompareTo(tempRoot.Value) < 0){
+                    tempRoot = tempRoot.Left;
+                }else if(value.CompareTo(tempRoot.Value) > 0){
+                    tempRoot =tempRoot.Right;
+                }
+            }
+
+            return null;
         }
     }
 }
